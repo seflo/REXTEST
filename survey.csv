@@ -1,0 +1,7 @@
+number,question,answers,type
+1,Please enter your sex:,"[Male, Female]",selectInput
+2,Please enter your age:,"[Nothing,Everything, To Find the Holy Grail]",textInput
+3,Please enter your major:,"[Blue,Red]",textInput
+4,Please enter your year of university:,,textInput
+5,Which statement do you agree with?,"[I tried to ensure my wealth wasn't decreasing over time, I didn't worry about whether my wealth was increasing or decreasing,Neither]",selectInput
+6,"When the winning stock was determined by your answer to a quiz question, did you answer the question with the answer you thought was:","[Most likely,Least likely,Neither]",selectInput

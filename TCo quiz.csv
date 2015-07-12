@@ -1,0 +1,3 @@
+number,question,answers,correct,hint
+1,You will answer a multiple-choice question:,"[Only once, Once per round]",1,There is only a single multiple-choice question at the start of the period.
+2,The winning stock is determined by:,"[A randomly chosen answer, Other people's answers, Your answer]",3,The winning stock is determined by whether or not YOUR answer is correct.

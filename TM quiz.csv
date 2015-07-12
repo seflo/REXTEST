@@ -1,0 +1,2 @@
+number,question,answers,correct,hint
+1,True or False: The rule used to determine whether the price goes up and down changes each round.,"[True, False]",2,The rule determining the price change is the same for the history of ticks shown and for every round.
